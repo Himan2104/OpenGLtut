@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLtut", "OpenGLtut\OpenGLtut.vcxproj", "{DE04A521-175B-493A-804A-0830C265556B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE04A521-175B-493A-804A-0830C265556B}.Debug|x64.ActiveCfg = Debug|x64
+		{DE04A521-175B-493A-804A-0830C265556B}.Debug|x64.Build.0 = Debug|x64
+		{DE04A521-175B-493A-804A-0830C265556B}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE04A521-175B-493A-804A-0830C265556B}.Debug|x86.Build.0 = Debug|Win32
+		{DE04A521-175B-493A-804A-0830C265556B}.Release|x64.ActiveCfg = Release|x64
+		{DE04A521-175B-493A-804A-0830C265556B}.Release|x64.Build.0 = Release|x64
+		{DE04A521-175B-493A-804A-0830C265556B}.Release|x86.ActiveCfg = Release|Win32
+		{DE04A521-175B-493A-804A-0830C265556B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6EE1038-0E5D-4EFD-99E6-F118D9E32022}
+	EndGlobalSection
+EndGlobal
